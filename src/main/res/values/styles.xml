@@ -1,0 +1,12 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="FadeInPopWin">
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="@android:windowEnterAnimation">@anim/pop_win_content_fade_in</item>
+        <item name="@android:windowExitAnimation">@anim/pop_win_content_fade_out</item>
+    </style>
+
+</resources>
