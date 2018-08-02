@@ -1,6 +1,6 @@
 {
   "name": "react-native-androidcustom-datetimepicker",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "private": false,
   "main": "index.js",
   "description": "A react-native datetime-picker for Android same as IOS ",
@@ -25,11 +25,11 @@
     "Same IOS",
     "ios"
   ],
-  "author": "Mayank Garg",
+  "author": "Dotsquares",
   "license": "ISC",
-  "homepage": "https://github.com/mayankgarg056/react-native-android-datetime-picker",
+  "homepage": "https://github.com/ajay001/react-native-androidcustom-datetimepicker",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mayankgarg056/react-native-android-datetime-picker"
+    "url": "https://github.com/ajay001/react-native-androidcustom-datetimepicker"
   }
 }
