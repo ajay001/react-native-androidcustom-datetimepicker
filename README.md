@@ -1,6 +1,5 @@
-
-## React Native Android Location Services Dialog Box
-<img width="274px" align="right" src="https://github.com/mayankgarg056/react-native-android-datetime-picker/blob/master/datetimePicker.gif" />
+## React Native Android DateTime Picker Same As IOS
+<img width="274px" align="right" src="https://raw.githubusercontent.com/ajay001/react-native-androidcustom-datetimepicker/master/datetimePicker.gif" />
 
 A react-native component for show the Date and time picker same as IOS in react-native android
 
@@ -9,6 +8,7 @@ A react-native component for show the Date and time picker same as IOS in react-
 
 ```
   npm install react-native-androidcustom-datetimepicker --save
+  react-native link react-native-androidcustom-datetimepicker
 
 ```
 **android**
